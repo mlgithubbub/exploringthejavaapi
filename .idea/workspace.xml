@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0cbe16f-3899-47a5-92af-8e101e249bf4" name="Changes" comment="# string">
+      <change afterPath="$PROJECT_DIR$/src/java_lang/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/java_lang/string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_lang/string.java" afterDir="false" />
     </list>
@@ -80,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736462041237</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="# string">
+      <created>1736466570367</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736466570367</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,7 +112,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/java_lang/string.java</url>
-          <line>15</line>
+          <line>21</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
