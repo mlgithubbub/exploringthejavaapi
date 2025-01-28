@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0cbe16f-3899-47a5-92af-8e101e249bf4" name="Changes" comment="# string">
-      <change afterPath="$PROJECT_DIR$/src/java_lang/math.java" afterDir="false" />
+    <list default="true" id="c0cbe16f-3899-47a5-92af-8e101e249bf4" name="Changes" comment="# math">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_util/arraylist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +47,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
@@ -94,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1737028680761</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="# math">
+      <created>1738001438223</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738001438223</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,7 +120,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="# first commit" />
     <MESSAGE value="# string" />
-    <option name="LAST_COMMIT_MESSAGE" value="# string" />
+    <MESSAGE value="# math" />
+    <option name="LAST_COMMIT_MESSAGE" value="# math" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
