@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0cbe16f-3899-47a5-92af-8e101e249bf4" name="Changes" comment="# math">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_util/arraylist.java" afterDir="false" />
+    <list default="true" id="c0cbe16f-3899-47a5-92af-8e101e249bf4" name="Changes" comment="# arraylist notdone">
+      <change afterPath="$PROJECT_DIR$/src/java_io/file.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738001438223</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="# arraylist notdone">
+      <created>1738090722654</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738090722654</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,7 +127,8 @@
     <MESSAGE value="# first commit" />
     <MESSAGE value="# string" />
     <MESSAGE value="# math" />
-    <option name="LAST_COMMIT_MESSAGE" value="# math" />
+    <MESSAGE value="# arraylist notdone" />
+    <option name="LAST_COMMIT_MESSAGE" value="# arraylist notdone" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
